@@ -25,4 +25,4 @@ Starting The Server
 
 #### Note
 
-Make sure to replace `YOUR_YOUTUBE_API_KEY` with your `youtube api` key in `api/util.py`
+Make sure to replace `YOUR_YOUTUBE_API_KEY` with your `youtube api key` in `api/util.py`
