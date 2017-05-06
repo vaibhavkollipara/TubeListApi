@@ -22,3 +22,7 @@ Create Admin Account
 Starting The Server
 
 `python manage.py runserver`
+
+#### Note
+
+Make sure to replace `YOUR_YOUTUBE_API_KEY` with your `youtube api` key in `api/util.py`
